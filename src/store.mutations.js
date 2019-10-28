@@ -1,0 +1,5 @@
+export const INIT = 'init'
+export const SET_PRINCIPAL = 'setPrincipal'
+export const SET_JWT = 'setJwt'
+export const SET_MEMBER = 'setMember'
+export const TOGGLE_IMPERSONATION = 'toggleImpersonation'

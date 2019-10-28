@@ -1,0 +1,5 @@
+user-agent: *
+Disallow: /lounge
+Disallow: /interview
+Disallow: /account
+Disallow: /classroom
