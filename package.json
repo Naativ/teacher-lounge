@@ -44,7 +44,7 @@
     "generate-json-file-webpack-plugin": "0.0.3",
     "graphql-tag": "2.10.0",
     "jquery": "3.3.1",
-    "lodash": "4.17.11",
+    "lodash": "4.17.19",
     "lodash.debounce": "4.0.8",
     "lodash.get": "4.4.2",
     "lodash.groupby": "4.6.0",
